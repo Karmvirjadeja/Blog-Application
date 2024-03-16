@@ -1,4 +1,4 @@
-<img align="center" src="https://i.imgur.com/P0EsQ3k.png">
+<img align="center" src="[https://i.imgur.com/P0EsQ3k.png](https://wise.com/imaginary-v2/cc2aa721d24b41165cc085670e53bf0c.png?width=1200)">
 <h4 align="center">Wise Blog.</h4>
 
 <hr>
